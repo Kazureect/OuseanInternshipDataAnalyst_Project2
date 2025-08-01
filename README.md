@@ -20,4 +20,4 @@ After this data has been processed and visualized, the information provided can 
 
 If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on LinkedIn and Email : ivanaxel.lamtama@gmail.com and https://www.linkedin.com/in/ivan-axel-lamtama-02a465247/
 
-#R #Statistics #Metrics #data-science
+#R #Statistic #Metrics #data-science
